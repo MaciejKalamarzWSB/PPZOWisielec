@@ -43,7 +43,7 @@ demon
 widok
 pomoc
 serum
-inbus
+imbus
 radca
 banan
 obraz
