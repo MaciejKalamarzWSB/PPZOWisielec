@@ -1,0 +1,1 @@
+/*Gra Wisielec – klasy WordBank, Game, Player; losowanie słowa, odsłanianie liter, limit błędów, stan gry.*/
